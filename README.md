@@ -19,5 +19,5 @@ Time-series forecasting and Regression
 -To solve the above we would be using data collected in June 2018 to predict the pickups in June 2019.
 
 Performance metrics
-Mean Absolute percentage error.
-Mean Squared error.
+1.Mean Absolute percentage error.
+2.Mean Squared error.
