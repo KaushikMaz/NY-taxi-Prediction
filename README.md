@@ -16,8 +16,11 @@ ML Problem Formulation
 Time-series forecasting and Regression
 
 -To find number of pickups, in the query reigion and surrounding regions.
+
 -To solve the above we would be using data collected in June 2018 to predict the pickups in June 2019.
 
 Performance metrics
+
 1.Mean Absolute percentage error.
+
 2.Mean Squared error.
